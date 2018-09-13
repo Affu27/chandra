@@ -7,6 +7,7 @@ void main()
         if(*c==76)
         {
                 printf("big endian\n");
+                       printf("chandra\n");
         }
         else
         {
