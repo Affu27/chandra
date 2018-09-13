@@ -1,4 +1,4 @@
-
+#include<stdio.h>
 void main()
 {
         unsigned int i = 0x76543210;
